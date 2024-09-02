@@ -1,6 +1,6 @@
 {
 	"name": "@rbxts/services",
-	"version": "1.5.4",
+	"version": "1.5.5",
 	"description": "",
 	"main": "init.lua",
 	"typings": "index.d.ts",
@@ -9,7 +9,7 @@
 	"license": "ISC",
 	"devDependencies": {
 		"@rbxts/compiler-types": "^2.0.0-types.0",
-		"@rbxts/types": "^1.0.788"
+		"@rbxts/types": "^1.0.804"
 	},
 	"files": [
 		"init.lua",
